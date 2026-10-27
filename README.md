@@ -4,7 +4,7 @@ A modern, single-page website for a fictional digital agency. It features an ani
 
 ![Mekanika homepage](docs/screenshot.png)
 
-**[Live demo](https://vaas125.github.io/mekanika-agency-website/)**
+**[Live demo](https://arifaydin12.github.io/mekanika-agency-website/)**
 
 ## Highlights
 
@@ -30,4 +30,4 @@ npx serve .
 
 ## License
 
-[MIT](LICENSE) © Arif Enes
+[MIT](LICENSE) © Arif Enes Aydin
